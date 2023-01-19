@@ -137,7 +137,8 @@
   .phStickyWrap.phVxi {
     min-height: 60px; }
   .logo {
-    max-width: 136px; }
+    width: 130px;
+    max-width: 144px; }
     .logo.logoVii {
       max-width: 106px; }
     .logo.logoViv {
